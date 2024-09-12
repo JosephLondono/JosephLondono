@@ -69,14 +69,14 @@
 </p>
 
 <h3 align="left">Featured Projects:</h3>
-<p align="left">
-  - **Inventory Management System**: A comprehensive solution for managing products, suppliers, and invoices.
-  - **Billing System**: A streamlined tool for generating and managing invoices.
-</p>
+<ul>
+  <li><strong>Inventory Management System:</strong> A comprehensive solution for managing products, suppliers, and invoices.</li>
+  <li><strong>Billing System:</strong> A streamlined tool for generating and managing invoices.</li>
+</ul>
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-  Feel free to reach out for any questions or collaborations at [londonoj888@gmail.com](mailto:londonoj888@gmail.com).
+  Feel free to reach out for any questions or collaborations at <a href="mailto:londonoj888@gmail.com">londonoj888@gmail.com</a>.
 </p>
 
 <p align="left">
