@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Londoño</h1>
-<h3 align="center">Software Analysis and Development Student | Web Development Specialist (Backend & Frontend)</h3>
+<h3 align="center">Software Analysis and Development Student | Web Development (Backend & Frontend)</h3>
 
 - 🌱 I’m currently learning **NextJS, React**
 
