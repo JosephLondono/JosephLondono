@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph Londoño</h1>
 <h3 align="center">Software Analysis and Development Student | Web Development (Backend & Frontend)</h3>
 
-- 🌱 I’m currently learning **NextJS, React**
+- I’m currently learning **NextJS, React**
 
-<p align="left">
-  Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions in the field of software development. I focus on both backend and frontend web development, and I’m continuously expanding my skills and exploring new technologies.
-</p>
+<p align="left"> Hi there! I am a Software Analysis and Development student with a strong passion for programming. I am constantly learning, focusing on both backend and frontend web development. Although I don't have work experience yet, I am dedicated to improving my skills every day, exploring new technologies, and applying my knowledge in academic projects. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -67,12 +65,6 @@
     <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
-
-<h3 align="left">Featured Projects:</h3>
-<ul>
-  <li><strong>Inventory Management System:</strong> A comprehensive solution for managing products, suppliers, and invoices.</li>
-  <li><strong>Billing System:</strong> A streamlined tool for generating and managing invoices.</li>
-</ul>
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
