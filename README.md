@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="center">Software Analysis and Development Student | Web Development (Backend & Frontend)</h4>
+<h4 align="center">Software Analysis and Development | Web Development (Backend & Frontend)</h4>
 
 ###
 
-<p align="center">Hi there! I am a Software Analysis and Development student with a strong passion for programming. I am constantly learning, focusing on both backend and frontend web development. Although I don't have work experience yet, I am dedicated to improving my skills every day, exploring new technologies, and applying my knowledge in academic projects.</p>
+<p align="center">Hi there! I am a Software Analysis and Development with a strong passion for programming. I am constantly learning, focusing on both backend and frontend web development. Although I don't have work experience yet, I am dedicated to improving my skills every day, exploring new technologies, and applying my knowledge in academic projects.</p>
 
 ###
 
